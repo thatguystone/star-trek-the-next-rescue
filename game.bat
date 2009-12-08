@@ -1,0 +1,3 @@
+random
+trek
+exit
